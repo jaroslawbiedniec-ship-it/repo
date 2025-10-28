@@ -1,2 +1,0 @@
-# Core dependencies
-sqlite3  # Part of Python standard library
